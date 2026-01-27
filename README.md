@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AnkitAdhikari
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning FullStack WebDev
 - 💞️ I’m looking to collaborate on github/discord
 - 📫 How to reach me https://www.linkedin.com/in/ankit-adhikari-a0886221b/
 
